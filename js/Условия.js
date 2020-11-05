@@ -18,7 +18,7 @@ if (num < 49) {
 
 
 //Тернарный оператор
-(num === 50) ? console.log('OK') : console.log('Error');
+let result = (num === 50) ? console.log('OK') : console.log('Error');
 
 
 //switch
